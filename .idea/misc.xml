@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/layout/activity_profile.xml" value="0.16945288753799392" />
+        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/drawable/vector_lock.xml" value="0.118" />
+        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/drawable/vector_person.xml" value="0.118" />
+        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Kenny Miranda/StudioProjects/PlatziMusic/app/src/main/res/layout/activity_profile.xml" value="0.33" />
       </map>
     </option>
   </component>
